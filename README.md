@@ -5,12 +5,12 @@
 Welcome to my GitHub profile! I'm passionate about coding, technology, and continuously learning new things. Here's a little more about me:
 
 ## 🧑‍💻 About Me
-- 🔭 I'm an aspiring data engineer
-- 🌱 I’m currently learning about Data Engineering.
+🔭 I'm an aspiring data engineer\
+🌱 I’m currently learning about Data Engineering.
 
 ## 🛠️ Technologies & Tools
-- Programming Languages: [Python, SQL]
-- Version Control: [Git, Github]
+Programming Languages: [Python, SQL]\
+Version Control: [Git, Github]
 
 ## 📈 GitHub Stats
 ![HazmiAmzar's GitHub stats](https://github-readme-stats.vercel.app/api?username=HazmiAmzar&show_icons=true&theme=radical)
