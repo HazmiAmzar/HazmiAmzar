@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi there, I'm HazmiAmzar! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, technology, and continuously learning new things. Here's a little more about me:
@@ -31,4 +33,4 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=HazmiAmzar.HazmiAmzar)
+</div>
